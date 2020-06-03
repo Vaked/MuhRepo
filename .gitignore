@@ -1,0 +1,6 @@
+error.log
+requests.log
+Vagrantfile
+.vagrant/
+.vscode/
+.vs/
